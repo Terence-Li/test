@@ -13,13 +13,29 @@
 					<key>url</key>
 					<string>http://39.108.131.87/ios/fishmap.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://39.108.131.87/ios/icon.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://39.108.131.87/ios/icon.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.iotnova.ksj</string>
+				<string>com.fishmap.yutudai</string>
 				<key>bundle-version</key>
-				<string>1.3</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
@@ -31,4 +47,3 @@
 	</array>
 </dict>
 </plist>
-
